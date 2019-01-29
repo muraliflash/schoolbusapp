@@ -12,6 +12,7 @@
 		0717757E22001C5900FAE612 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0717757C22001C5900FAE612 /* Main.storyboard */; };
 		0717758022001C5900FAE612 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0717757F22001C5900FAE612 /* Assets.xcassets */; };
 		0717758322001C5900FAE612 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0717758122001C5900FAE612 /* LaunchScreen.storyboard */; };
+		0717758B22002A5300FAE612 /* s2.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0717758A22002A5300FAE612 /* s2.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0717757F22001C5900FAE612 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0717758222001C5900FAE612 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0717758422001C5900FAE612 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0717758A22002A5300FAE612 /* s2.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = s2.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0717757822001C5900FAE612 /* AppDelegate.swift */,
 				0717757A22001C5900FAE612 /* ViewController.swift */,
 				0717757C22001C5900FAE612 /* Main.storyboard */,
+				0717758A22002A5300FAE612 /* s2.storyboard */,
 				0717757F22001C5900FAE612 /* Assets.xcassets */,
 				0717758122001C5900FAE612 /* LaunchScreen.storyboard */,
 				0717758422001C5900FAE612 /* Info.plist */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0717758322001C5900FAE612 /* LaunchScreen.storyboard in Resources */,
+				0717758B22002A5300FAE612 /* s2.storyboard in Resources */,
 				0717758022001C5900FAE612 /* Assets.xcassets in Resources */,
 				0717757E22001C5900FAE612 /* Main.storyboard in Resources */,
 			);
